@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "fname": "Balaji",
+      "lname": "L",
+      "email": "727722euit029@skcet.ac.in",
+      "password": "okijh",
+      "id": 1
+    },
+    {
+      "fname": "Balaji",
+      "lname": "L",
+      "email": "727722euit029@skcet.ac.in",
+      "password": "",
+      "id": 2
+    },
+    {
+      "fname": "Balaji",
+      "lname": "L",
+      "email": "727722euit029@skcet.ac.in",
+      "password": "",
+      "id": 3
+    }
+  ]
+}
